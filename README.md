@@ -6,11 +6,12 @@ Welcome to the **Bookstore Database System**! This project simulates a real-worl
 
 We have designed and implemented a MySQL database system to efficiently store and manage the bookstore’s operational data. This includes tables for books, authors, customers, orders, shipping details, and more.
 
-This project is broken into three SQL script files:
+This project is broken into three SQL script files accompanied by the ERD diagrams and an exported database:
 
 1. ** 'CreatingDatabasAndTables.sql' ** – Creates the 'BookStore` database and all necessary tables.
 2. ** 'InsertingIntoDatabse.sql' ** – Inserts sample data to test the functionality of the database.
 3. ** 'RolesAndAdminUsers.sql' ** – Creates users, defines roles, and grants privileges.
+4. ** 'BookStore database - ERD.drawio' ** - Shows the relationship between the tables in a more graphic manner
 
 ---
 
