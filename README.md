@@ -12,6 +12,7 @@ This project is broken into three SQL script files accompanied by the ERD diagra
 2. ** 'InsertingIntoDatabse.sql' ** – Inserts sample data to test the functionality of the database.
 3. ** 'RolesAndAdminUsers.sql' ** – Creates users, defines roles, and grants privileges.
 4. ** 'BookStore database - ERD.drawio' ** - Shows the relationship between the tables in a more graphic manner
+5. ** 'Bookstore.sql' - Exported SQL file of demo data
 
 ---
 
